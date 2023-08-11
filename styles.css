@@ -1,1 +1,23 @@
 /* your code */
+.header {
+	background: cadetblue;
+	text-align: center;
+}
+
+.row1 {
+	text-align: center;
+}
+
+.row2 {
+	background: lightgray;
+	text-align: center;
+}
+
+.row3 {
+	text-align: center;
+}
+
+.row4 {
+	background: lightgray;
+	text-align: center;
+}
